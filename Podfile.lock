@@ -1,0 +1,16 @@
+PODS:
+  - AppAuth (0.95.0)
+
+DEPENDENCIES:
+  - AppAuth (~> 0.95.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AppAuth
+
+SPEC CHECKSUMS:
+  AppAuth: 137f6bb6fc9dfbaf2cf9f6fcff1d336ff0163bc6
+
+PODFILE CHECKSUM: c89b3a259c248bdf998216f2ca4fa1e365d6b9ee
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/maheshsammatashetti/Library/Developer/Xcode/DerivedData/Authorize-acapoaswtraydzgvbterklqgaghs/Build/Products/Debug-iphonesimulator/Authorize.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/maheshsammatashetti/MaheshS/Trail/Authorize/build/Authorize.build/Debug-iphonesimulator/Authorize.build/unextended-module.modulemap",
+    }]
+  }]
+}

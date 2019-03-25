@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "4430ef4f66313f8fb3992c4a7b688057"
+build_time: [1547437631, 896871000]
+inputs:
+  "/Users/maheshsammatashetti/MaheshS/Trail/Authorize/Authorize/Constants.swift": !dirty [1546854924, 0]
+  "/Users/maheshsammatashetti/MaheshS/Trail/Authorize/Authorize/Auth.swift": !dirty [1547437440, 0]
