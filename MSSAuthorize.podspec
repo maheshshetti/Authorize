@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   s.source         = { :git => 'https://github.com/maheshshetti/Authorize.git', :tag => s.version.to_s }
  
   s.ios.deployment_target = '11.3'
-  s.source_files = 'CommonMethods/*'
+  s.source_files = 'Authorize/*.{h, m, swift}'
 
   s.dependency 'AppAuth'
 end
